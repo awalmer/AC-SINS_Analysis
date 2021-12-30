@@ -1,5 +1,11 @@
-# AC-SINS Analysis R Shiny Application
-R Shiny application that I developed at Eli Lilly &amp; Co. 
+# Introduction: AC-SINS Analysis R Shiny Application
+This is an R Shiny application that I developed at Eli Lilly &amp; Co. R Shiny is an R package that allows developers to build and deploy interactive web applications. 
+
+  The code for the application is, [app.R](AC-SINS_Analysis/app.R), with required supplmental script of functions for sourcing, [functions.R](AC-SINS_Analysis/functions.R). 
+
+The original application, intended for usage by Eli Lilly scientists, is hosted on Eli Lilly's server at this location: [https://shiny.am.lilly.com/acsins_analysis/].
+For the purpose of open source access, the application can also be found here: []. Note: This version is hosted on [https://www.shinyapps.io/](shinyapps.io) and has a 25 Active Hour limit per month. 
+
 
 # Background on AC-SINS
 AC-SINS stands for Affinity-Capture Self-Interaction Nanoparticle Spectroscopy.  

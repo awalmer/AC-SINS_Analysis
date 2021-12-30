@@ -10,7 +10,7 @@ library(dplyr)
 library(xlsx)
 options(DT.options = list(pageLength = 384)) #default setting for DT tables
 
-source("./rfctr_functions.R") #source
+source("./functions.R") #source
 
 # User Interface:
 ui <- fluidPage(

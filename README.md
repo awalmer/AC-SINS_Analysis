@@ -4,7 +4,7 @@ This is an R Shiny application that I developed at Eli Lilly &amp; Co. R Shiny i
   The R script for the application is [app.R](/app.R), and the required supplmental script of functions sourced by the application is [functions.R](/functions.R). 
 
   The original application, intended for usage by Eli Lilly scientists, is hosted on Eli Lilly's server at this location: https://shiny.am.lilly.com/acsins_analysis/.
-  For the purpose of open source access, the application can also be found here: []. Note: This version is hosted on [shinyapps.io](https://www.shinyapps.io/) and has a 25 Active Hour limit per month. 
+  For the purpose of open source access, the application can also be found here: https://awalmer.shinyapps.io/acsins_analysis/. Note: This version is hosted on [shinyapps.io](https://www.shinyapps.io/) and has a 25 Active Hour limit per month. 
 
 
 # Background on AC-SINS

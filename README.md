@@ -1,5 +1,5 @@
 # Introduction: AC-SINS Analysis R Shiny Application
-This is an R Shiny application that I developed at Eli Lilly &amp; Co. R Shiny is an R package that allows developers to build and deploy interactive web applications. For our team's purposes, R Shiny was an excellent resource for sharing our newly-developed analysis approach with users. 
+This is an R Shiny application that I developed at Eli Lilly &amp; Co. R Shiny is an R package that allows developers to build and deploy interactive web applications. For our team's purposes, R Shiny was an excellent resource for sharing our newly-developed AC-SINS analysis approach with users. 
 
   The R script for the application is [app.R](/app.R), and the required supplmental script of functions sourced by the application is [functions.R](/functions.R). 
 

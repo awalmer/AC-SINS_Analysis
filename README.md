@@ -1,17 +1,19 @@
 # Introduction: AC-SINS Analysis R Shiny Application
-This is an R Shiny application that I developed at Eli Lilly &amp; Co. R Shiny is an R package that allows developers to build and deploy interactive web applications. For our team's purposes, R Shiny was an excellent resource for sharing our newly-developed AC-SINS analysis approach with users. 
+This is an R Shiny application that I developed at Eli Lilly &amp; Company. R Shiny is an R package that allows developers to build and deploy interactive web applications. For our team's purposes, R Shiny was an excellent resource for sharing our newly-developed AC-SINS analysis approach with users. 
 
   The R script for the application is [app.R](/app.R), and the required supplmental script of functions sourced by the application is [functions.R](/functions.R). 
 
   The original application, intended for usage by Eli Lilly scientists, is hosted on Eli Lilly's server at this location: https://shiny.am.lilly.com/acsins_analysis/.
+  
   For the purpose of open source access, the application can also be found here: https://awalmer.shinyapps.io/acsins_analysis/. Note: This version is hosted on [shinyapps.io](https://www.shinyapps.io/) and has a 25 Active Hour limit per month. 
 
 
 # Background on AC-SINS
-AC-SINS stands for Affinity-Capture Self-Interaction Nanoparticle Spectroscopy.  
+AC-SINS stands for **Affinity-Capture Self-Interaction Nanoparticle Spectroscopy**, and refers to an assay method developed by Craig Dickinson, Ph.D., and Peter Tessier, Ph.D. The AC-SINS method assesses the quality of an antibody solution based on its degree of self-interaction. The motivation behind adressing this characteristic of a solution lies in the issues associated with a high level of self-interaction. For example, solutions that self-interact tend to have a high viscosity (which is difficult to inject), and low solubility. 
+
+  **Measurement Process**: For each sample, the plate reader measures the absorbance value (Au) across a range of of wavelength values (475-625 nanometers). If the peak absorbance for a given sample occurs at a higher wavelength (nm) value, it reflects a higher level of avidity, i.e. self-interaction. The result of interest is the plasmon wavelength, which is the wavelength value corresponding to peak absorbance. By comparing the shift of a given antibody's plasmon wavelength value from the control group (non-capture polyclonal antibody) value, one can assess the degree to which it is self-interacting.
 
 # AC-SINS Analysis & LOESS
-
 
 We realized that AC-SINS analysis was not an exercise in data prediction, but rather required a description of the data. We merely needed to describe the data on a case-by-case basis rather than find a mathematical function that would fit all cases of AC-SINS data. We focused on the fact that the plotted data always had only one global maximum, and that scientists were interested in identifying the wavelength at the peak of the data after the removal of outlying points. We found that by smoothing the data, we could remove noise around the peak and capture a reliable plasmon wavelength estimation. We decided to apply the LOESS (term referring to “local regression”) method, which involves fitting a scatterplot using multiple regression models in a k-nearest-neighbor-based meta-model.[1] As opposed to a parametric fit, the loess curve is “obtained empirically rather than through stringent prior specifications about the nature of any structure that might exist within the data” (Jacoby, 578).[2] For each local data point and its specified neighborhood, a separate regression is applied iteratively for each region. This method is suitable for our task of capturing the plasmon wavelength because we want to describe the behavior of the data around the peak and remove noise caused by outlying points.
 

@@ -1,0 +1,385 @@
+Plate,Well,Sample Name,Buffer Name,Control Name,ID
+1,A1,Buffer,H6N30,Buffer,Buffer
+1,A2,Buffer,H6N30,Buffer,Buffer
+1,A3,Sample 1,H6N30,,Molecule ID 1
+1,A4,Sample 1,H6N30,,Molecule ID 1
+1,A5,Sample 9,H6N30,,Molecule ID 9
+1,A6,Sample 9,H6N30,,Molecule ID 9
+1,A7,Sample 17,H6N30,,Molecule ID 17
+1,A8,Sample 17,H6N30,,Molecule ID 17
+1,A9,Buffer,PBS,Buffer,Buffer
+1,A10,Buffer,PBS,Buffer,Buffer
+1,A11,Sample 1,PBS,,Molecule ID 1
+1,A12,Sample 1,PBS,,Molecule ID 1
+1,A13,Sample 9,PBS,,Molecule ID 9
+1,A14,Sample 9,PBS,,Molecule ID 9
+1,A15,Sample 17,PBS,,Molecule ID 17
+1,A16,Sample 17,PBS,,Molecule ID 17
+1,A17,,,,
+1,A18,,,,
+1,A19,,,,
+1,A20,,,,
+1,A21,,,,
+1,A22,,,,
+1,A23,,,,
+1,A24,,,,
+1,B1,Buffer,H6N30,Buffer,Buffer
+1,B2,Buffer,H6N30,Buffer,Buffer
+1,B3,Sample 1,H6N30,,Molecule ID 1
+1,B4,Sample 1,H6N30,,Molecule ID 1
+1,B5,Sample 9,H6N30,,Molecule ID 9
+1,B6,Sample 9,H6N30,,Molecule ID 9
+1,B7,Sample 17,H6N30,,Molecule ID 17
+1,B8,Sample 17,H6N30,,Molecule ID 17
+1,B9,Buffer,PBS,Buffer,Buffer
+1,B10,Buffer,PBS,Buffer,Buffer
+1,B11,Sample 1,PBS,,Molecule ID 1
+1,B12,Sample 1,PBS,,Molecule ID 1
+1,B13,Sample 9,PBS,,Molecule ID 9
+1,B14,Sample 9,PBS,,Molecule ID 9
+1,B15,Sample 17,PBS,,Molecule ID 17
+1,B16,Sample 17,PBS,,Molecule ID 17
+1,B17,,,,
+1,B18,,,,
+1,B19,,,,
+1,B20,,,,
+1,B21,,,,
+1,B22,,,,
+1,B23,,,,
+1,B24,,,,
+1,C1,Control 2,H6N30,Control_2,Control ID 2
+1,C2,Control 2,H6N30,Control_2,Control ID 2
+1,C3,Sample 2,H6N30,,Molecule ID 2
+1,C4,Sample 2,H6N30,,Molecule ID 2
+1,C5,Sample 10,H6N30,,Molecule ID 10
+1,C6,Sample 10,H6N30,,Molecule ID 10
+1,C7,Sample 18,H6N30,,Molecule ID 18
+1,C8,Sample 18,H6N30,,Molecule ID 18
+1,C9,Control 2,PBS,Control_2,Control ID 2
+1,C10,Control 2,PBS,Control_2,Control ID 2
+1,C11,Sample 2,PBS,,Molecule ID 2
+1,C12,Sample 2,PBS,,Molecule ID 2
+1,C13,Sample 10,PBS,,Molecule ID 10
+1,C14,Sample 10,PBS,,Molecule ID 10
+1,C15,Sample 18,PBS,,Molecule ID 18
+1,C16,Sample 18,PBS,,Molecule ID 18
+1,C17,,,,
+1,C18,,,,
+1,C19,,,,
+1,C20,,,,
+1,C21,,,,
+1,C22,,,,
+1,C23,,,,
+1,C24,,,,
+1,D1,Control 2,H6N30,Control_2,Control ID 2
+1,D2,Control 2,H6N30,Control_2,Control ID 2
+1,D3,Sample 2,H6N30,,Molecule ID 2
+1,D4,Sample 2,H6N30,,Molecule ID 2
+1,D5,Sample 10,H6N30,,Molecule ID 10
+1,D6,Sample 10,H6N30,,Molecule ID 10
+1,D7,Sample 18,H6N30,,Molecule ID 18
+1,D8,Sample 18,H6N30,,Molecule ID 18
+1,D9,Control 2,PBS,Control_2,Control ID 2
+1,D10,Control 2,PBS,Control_2,Control ID 2
+1,D11,Sample 2,PBS,,Molecule ID 2
+1,D12,Sample 2,PBS,,Molecule ID 2
+1,D13,Sample 10,PBS,,Molecule ID 10
+1,D14,Sample 10,PBS,,Molecule ID 10
+1,D15,Sample 18,PBS,,Molecule ID 18
+1,D16,Sample 18,PBS,,Molecule ID 18
+1,D17,,,,
+1,D18,,,,
+1,D19,,,,
+1,D20,,,,
+1,D21,,,,
+1,D22,,,,
+1,D23,,,,
+1,D24,,,,
+1,E1,Control 3,H6N30,Control_3,Control ID 3
+1,E2,Control 3,H6N30,Control_3,Control ID 3
+1,E3,Sample 3,H6N30,,Molecule ID 3
+1,E4,Sample 3,H6N30,,Molecule ID 3
+1,E5,Sample 11,H6N30,,Molecule ID 11
+1,E6,Sample 11,H6N30,,Molecule ID 11
+1,E7,Sample 19,H6N30,,Molecule ID 19
+1,E8,Sample 19,H6N30,,Molecule ID 19
+1,E9,Control 3,PBS,Control_3,Control ID 3
+1,E10,Control 3,PBS,Control_3,Control ID 3
+1,E11,Sample 3,PBS,,Molecule ID 3
+1,E12,Sample 3,PBS,,Molecule ID 3
+1,E13,Sample 11,PBS,,Molecule ID 11
+1,E14,Sample 11,PBS,,Molecule ID 11
+1,E15,Sample 19,PBS,,Molecule ID 19
+1,E16,Sample 19,PBS,,Molecule ID 19
+1,E17,,,,
+1,E18,,,,
+1,E19,,,,
+1,E20,,,,
+1,E21,,,,
+1,E22,,,,
+1,E23,,,,
+1,E24,,,,
+1,F1,Control 3,H6N30,Control_3,Control ID 3
+1,F2,Control 3,H6N30,Control_3,Control ID 3
+1,F3,Sample 3,H6N30,,Molecule ID 3
+1,F4,Sample 3,H6N30,,Molecule ID 3
+1,F5,Sample 11,H6N30,,Molecule ID 11
+1,F6,Sample 11,H6N30,,Molecule ID 11
+1,F7,Sample 19,H6N30,,Molecule ID 19
+1,F8,Sample 19,H6N30,,Molecule ID 19
+1,F9,Control 3,PBS,Control_3,Control ID 3
+1,F10,Control 3,PBS,Control_3,Control ID 3
+1,F11,Sample 3,PBS,,Molecule ID 3
+1,F12,Sample 3,PBS,,Molecule ID 3
+1,F13,Sample 11,PBS,,Molecule ID 11
+1,F14,Sample 11,PBS,,Molecule ID 11
+1,F15,Sample 19,PBS,,Molecule ID 19
+1,F16,Sample 19,PBS,,Molecule ID 19
+1,F17,,,,
+1,F18,,,,
+1,F19,,,,
+1,F20,,,,
+1,F21,,,,
+1,F22,,,,
+1,F23,,,,
+1,F24,,,,
+1,G1,Control 4,H6N30,Control_4,Control ID 4
+1,G2,Control 4,H6N30,Control_4,Control ID 4
+1,G3,Sample 4,H6N30,,Molecule ID 4
+1,G4,Sample 4,H6N30,,Molecule ID 4
+1,G5,Sample 12,H6N30,,Molecule ID 12
+1,G6,Sample 12,H6N30,,Molecule ID 12
+1,G7,Sample 20,H6N30,,Molecule ID 20
+1,G8,Sample 20,H6N30,,Molecule ID 20
+1,G9,Control 4,PBS,Control_4,Control ID 4
+1,G10,Control 4,PBS,Control_4,Control ID 4
+1,G11,Sample 4,PBS,,Molecule ID 4
+1,G12,Sample 4,PBS,,Molecule ID 4
+1,G13,Sample 12,PBS,,Molecule ID 12
+1,G14,Sample 12,PBS,,Molecule ID 12
+1,G15,Sample 20,PBS,,Molecule ID 20
+1,G16,Sample 20,PBS,,Molecule ID 20
+1,G17,,,,
+1,G18,,,,
+1,G19,,,,
+1,G20,,,,
+1,G21,,,,
+1,G22,,,,
+1,G23,,,,
+1,G24,,,,
+1,H1,Control 4,H6N30,Control_4,Control ID 4
+1,H2,Control 4,H6N30,Control_4,Control ID 4
+1,H3,Sample 4,H6N30,,Molecule ID 4
+1,H4,Sample 4,H6N30,,Molecule ID 4
+1,H5,Sample 12,H6N30,,Molecule ID 12
+1,H6,Sample 12,H6N30,,Molecule ID 12
+1,H7,Sample 20,H6N30,,Molecule ID 20
+1,H8,Sample 20,H6N30,,Molecule ID 20
+1,H9,Control 4,PBS,Control_4,Control ID 4
+1,H10,Control 4,PBS,Control_4,Control ID 4
+1,H11,Sample 4,PBS,,Molecule ID 4
+1,H12,Sample 4,PBS,,Molecule ID 4
+1,H13,Sample 12,PBS,,Molecule ID 12
+1,H14,Sample 12,PBS,,Molecule ID 12
+1,H15,Sample 20,PBS,,Molecule ID 20
+1,H16,Sample 20,PBS,,Molecule ID 20
+1,H17,,,,
+1,H18,,,,
+1,H19,,,,
+1,H20,,,,
+1,H21,,,,
+1,H22,,,,
+1,H23,,,,
+1,H24,,,,
+1,I1,Control 5,H6N30,Control_5,Control ID 5
+1,I2,Control 5,H6N30,Control_5,Control ID 5
+1,I3,Sample 5,H6N30,,Molecule ID 5
+1,I4,Sample 5,H6N30,,Molecule ID 5
+1,I5,Sample 13,H6N30,,Molecule ID 13
+1,I6,Sample 13,H6N30,,Molecule ID 13
+1,I7,Sample 21,H6N30,,Molecule ID 21
+1,I8,Sample 21,H6N30,,Molecule ID 21
+1,I9,Control 5,PBS,Control_5,Control ID 5
+1,I10,Control 5,PBS,Control_5,Control ID 5
+1,I11,Sample 5,PBS,,Molecule ID 5
+1,I12,Sample 5,PBS,,Molecule ID 5
+1,I13,Sample 13,PBS,,Molecule ID 13
+1,I14,Sample 13,PBS,,Molecule ID 13
+1,I15,Sample 21,PBS,,Molecule ID 21
+1,I16,Sample 21,PBS,,Molecule ID 21
+1,I17,,,,
+1,I18,,,,
+1,I19,,,,
+1,I20,,,,
+1,I21,,,,
+1,I22,,,,
+1,I23,,,,
+1,I24,,,,
+1,J1,Control 5,H6N30,Control_5,Control ID 5
+1,J2,Control 5,H6N30,Control_5,Control ID 5
+1,J3,Sample 5,H6N30,,Molecule ID 5
+1,J4,Sample 5,H6N30,,Molecule ID 5
+1,J5,Sample 13,H6N30,,Molecule ID 13
+1,J6,Sample 13,H6N30,,Molecule ID 13
+1,J7,Sample 21,H6N30,,Molecule ID 21
+1,J8,Sample 21,H6N30,,Molecule ID 21
+1,J9,Control 5,PBS,Control_5,Control ID 5
+1,J10,Control 5,PBS,Control_5,Control ID 5
+1,J11,Sample 5,PBS,,Molecule ID 5
+1,J12,Sample 5,PBS,,Molecule ID 5
+1,J13,Sample 13,PBS,,Molecule ID 13
+1,J14,Sample 13,PBS,,Molecule ID 13
+1,J15,Sample 21,PBS,,Molecule ID 21
+1,J16,Sample 21,PBS,,Molecule ID 21
+1,J17,,,,
+1,J18,,,,
+1,J19,,,,
+1,J20,,,,
+1,J21,,,,
+1,J22,,,,
+1,J23,,,,
+1,J24,,,,
+1,K1,Control 6,H6N30,Control_6,Control ID 6
+1,K2,Control 6,H6N30,Control_6,Control ID 6
+1,K3,Sample 6,H6N30,,Molecule ID 6
+1,K4,Sample 6,H6N30,,Molecule ID 6
+1,K5,Sample 14,H6N30,,Molecule ID 14
+1,K6,Sample 14,H6N30,,Molecule ID 14
+1,K7,Sample 22,H6N30,,Molecule ID 22
+1,K8,Sample 22,H6N30,,Molecule ID 22
+1,K9,Control 6,PBS,Control_6,Control ID 6
+1,K10,Control 6,PBS,Control_6,Control ID 6
+1,K11,Sample 6,PBS,,Molecule ID 6
+1,K12,Sample 6,PBS,,Molecule ID 6
+1,K13,Sample 14,PBS,,Molecule ID 14
+1,K14,Sample 14,PBS,,Molecule ID 14
+1,K15,Sample 22,PBS,,Molecule ID 22
+1,K16,Sample 22,PBS,,Molecule ID 22
+1,K17,,,,
+1,K18,,,,
+1,K19,,,,
+1,K20,,,,
+1,K21,,,,
+1,K22,,,,
+1,K23,,,,
+1,K24,,,,
+1,L1,Control 6,H6N30,Control_6,Control ID 6
+1,L2,Control 6,H6N30,Control_6,Control ID 6
+1,L3,Sample 6,H6N30,,Molecule ID 6
+1,L4,Sample 6,H6N30,,Molecule ID 6
+1,L5,Sample 14,H6N30,,Molecule ID 14
+1,L6,Sample 14,H6N30,,Molecule ID 14
+1,L7,Sample 22,H6N30,,Molecule ID 22
+1,L8,Sample 22,H6N30,,Molecule ID 22
+1,L9,Control 6,PBS,Control_6,Control ID 6
+1,L10,Control 6,PBS,Control_6,Control ID 6
+1,L11,Sample 6,PBS,,Molecule ID 6
+1,L12,Sample 6,PBS,,Molecule ID 6
+1,L13,Sample 14,PBS,,Molecule ID 14
+1,L14,Sample 14,PBS,,Molecule ID 14
+1,L15,Sample 22,PBS,,Molecule ID 22
+1,L16,Sample 22,PBS,,Molecule ID 22
+1,L17,,,,
+1,L18,,,,
+1,L19,,,,
+1,L20,,,,
+1,L21,,,,
+1,L22,,,,
+1,L23,,,,
+1,L24,,,,
+1,M1,Control 7,H6N30,Control_7,Control ID 7
+1,M2,Control 7,H6N30,Control_7,Control ID 7
+1,M3,Sample 7,H6N30,,Molecule ID 7
+1,M4,Sample 7,H6N30,,Molecule ID 7
+1,M5,Sample 15,H6N30,,Molecule ID 15
+1,M6,Sample 15,H6N30,,Molecule ID 15
+1,M7,Sample 23,H6N30,,Molecule ID 23
+1,M8,Sample 23,H6N30,,Molecule ID 23
+1,M9,Control 7,PBS,Control_7,Control ID 7
+1,M10,Control 7,PBS,Control_7,Control ID 7
+1,M11,Sample 7,PBS,,Molecule ID 7
+1,M12,Sample 7,PBS,,Molecule ID 7
+1,M13,Sample 15,PBS,,Molecule ID 15
+1,M14,Sample 15,PBS,,Molecule ID 15
+1,M15,Sample 23,PBS,,Molecule ID 23
+1,M16,Sample 23,PBS,,Molecule ID 23
+1,M17,,,,
+1,M18,,,,
+1,M19,,,,
+1,M20,,,,
+1,M21,,,,
+1,M22,,,,
+1,M23,,,,
+1,M24,,,,
+1,N1,Control 7,H6N30,Control_7,Control ID 7
+1,N2,Control 7,H6N30,Control_7,Control ID 7
+1,N3,Sample 7,H6N30,,Molecule ID 7
+1,N4,Sample 7,H6N30,,Molecule ID 7
+1,N5,Sample 15,H6N30,,Molecule ID 15
+1,N6,Sample 15,H6N30,,Molecule ID 15
+1,N7,Sample 23,H6N30,,Molecule ID 23
+1,N8,Sample 23,H6N30,,Molecule ID 23
+1,N9,Control 7,PBS,Control_7,Control ID 7
+1,N10,Control 7,PBS,Control_7,Control ID 7
+1,N11,Sample 7,PBS,,Molecule ID 7
+1,N12,Sample 7,PBS,,Molecule ID 7
+1,N13,Sample 15,PBS,,Molecule ID 15
+1,N14,Sample 15,PBS,,Molecule ID 15
+1,N15,Sample 23,PBS,,Molecule ID 23
+1,N16,Sample 23,PBS,,Molecule ID 23
+1,N17,,,,
+1,N18,,,,
+1,N19,,,,
+1,N20,,,,
+1,N21,,,,
+1,N22,,,,
+1,N23,,,,
+1,N24,,,,
+1,O1,Control 1,H6N30,Control_1,Control ID 1
+1,O2,Control 1,H6N30,Control_1,Control ID 1
+1,O3,Sample 8,H6N30,,Molecule ID 8
+1,O4,Sample 8,H6N30,,Molecule ID 8
+1,O5,Sample 16,H6N30,,Molecule ID 16
+1,O6,Sample 16,H6N30,,Molecule ID 16
+1,O7,,,,
+1,O8,,,,
+1,O9,Control 1,PBS,Control_1,Control ID 1
+1,O10,Control 1,PBS,Control_1,Control ID 1
+1,O11,Sample 8,PBS,,Molecule ID 8
+1,O12,Sample 8,PBS,,Molecule ID 8
+1,O13,Sample 16,PBS,,Molecule ID 16
+1,O14,Sample 16,PBS,,Molecule ID 16
+1,O15,,,,
+1,O16,,,,
+1,O17,,,,
+1,O18,,,,
+1,O19,,,,
+1,O20,,,,
+1,O21,,,,
+1,O22,,,,
+1,O23,,,,
+1,O24,,,,
+1,P1,Control 1,H6N30,Control_1,Control ID 1
+1,P2,Control 1,H6N30,Control_1,Control ID 1
+1,P3,Sample 8,H6N30,,Molecule ID 8
+1,P4,Sample 8,H6N30,,Molecule ID 8
+1,P5,Sample 16,H6N30,,Molecule ID 16
+1,P6,Sample 16,H6N30,,Molecule ID 16
+1,P7,,,,
+1,P8,,,,
+1,P9,Control 1,PBS,Control_1,Control ID 1
+1,P10,Control 1,PBS,Control_1,Control ID 1
+1,P11,Sample 8,PBS,,Molecule ID 8
+1,P12,Sample 8,PBS,,Molecule ID 8
+1,P13,Sample 16,PBS,,Molecule ID 16
+1,P14,Sample 16,PBS,,Molecule ID 16
+1,P15,,,,
+1,P16,,,,
+1,P17,,,,
+1,P18,,,,
+1,P19,,,,
+1,P20,,,,
+1,P21,,,,
+1,P22,,,,
+1,P23,,,,
+1,P24,,,,
